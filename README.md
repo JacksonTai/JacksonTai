@@ -1,20 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Jackson Tai 👋
-
-
-## About Me
+## Hi there, I'm Jackson Tai 👋
 
 I'm a 2nd year student pursuing Diploma in Information Technology with a specialism in Software Engineering at Asia Pacific University. 🎓
 
 I love to explore new technologies and leverage them to solve real-life problems. ✨
 
 I'm currently into Java Development and working on my Data Structures and Algorithms skills.
-
-<br>
-
----
-<br>
 
 ## Tech Stack 📚
 <br>
@@ -28,11 +20,6 @@ I'm currently into Java Development and working on my Data Structures and Algori
 <img src="https://img.shields.io/badge/-JSON%20-02569B?style=for-the-badge&logo=json&logoColor=white">
 <img src="https://img.shields.io/badge/-Figma%20-purple?style=for-the-badge&logo=figma">
 <img src="https://img.shields.io/badge/-MySQL%20-%2314354C.svg?style=for-the-badge&logo=MySQL&logoColor=white">
-
-<br>
-
----
-<br>
 
 ## Reach Out To Me 📫
 <br>
