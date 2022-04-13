@@ -24,6 +24,6 @@ I'm currently into Java Development and working on my Data Structures and Algori
 ## Reach Out To Me 📫
 <br>
 <a href="mailto:jacksontai21@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" ><a>
-<a href="https://www.linkedin.com/in/leerenjie/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-<a href="https://stackoverflow.com/users/story/14742922"><img src="https://img.shields.io/badge/Stack Overflow-E9E6DF?&style=for-the-badge&logo=stackoverflow"></a>  
+<a href="https://www.linkedin.com/in/jacksontai/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://www.stackoverflow.com/users/13367914/jackson-tai"><img src="https://img.shields.io/badge/Stack Overflow-E9E6DF?&style=for-the-badge&logo=stackoverflow"></a>  
 <br>
