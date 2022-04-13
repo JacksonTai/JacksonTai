@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Jackson Tai 👋
 
-I'm a 2nd year student pursuing Diploma in Information Technology with a specialism in Software Engineering at Asia Pacific University. 🎓
+I'm a 2nd year student pursuing Diploma with a specialism in Software Engineering at Asia Pacific University (APU). 🎓
 
 I love to explore new technologies and leverage them to solve real-life problems. ✨
 
