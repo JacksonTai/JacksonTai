@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there, I'm Jackson Tai 👋
+## Hi there, I'm Jackson Tai 
 
 <br>
 <div id="header" align="center">
