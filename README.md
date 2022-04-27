@@ -12,7 +12,7 @@ I'm a 2nd year student pursuing Diploma with a specialism in Software Engineerin
 
 I love to explore new technologies and leverage them to solve real-life problems. ✨
 
-I'm currently into Java Development and working on my Data Structures and Algorithms skills.
+I'm currently into MERN stack Development and working on my Data Structures and Algorithms skills.
 
 ## Tech Stack 📚
 
