@@ -1,11 +1,6 @@
 <div align="center">
 
 ## Hi there, I'm Jackson Tai 
-
-<br>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 <br>
   
 I'm currently a software engineering student at Asia Pacific University (APU). 
