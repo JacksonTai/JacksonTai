@@ -30,7 +30,7 @@ I'm currently into Java development and working on my data structures and algori
 ## Reach Out To Me 📫
 
 <br>
-<a href="mailto:jacksontai21@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" ><a>
+<a href="mailto:jacksontai.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" ><a>
 <a href="https://www.linkedin.com/in/jacksontai/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a href="https://www.facebook.com/JacksonTai757/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/JacksonTai757"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
