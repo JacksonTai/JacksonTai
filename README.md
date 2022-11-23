@@ -41,6 +41,6 @@ I'm currently into Java development and working on my data structures and algori
 
 <br>
 <a href="https://www.stackoverflow.com/users/13367914/jackson-tai"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-<a href="https://jacksontai.com/"><img src="https://img.shields.io/badge/Website-3A3F54?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<!-- <a href="https://jacksontai.com/"><img src="https://img.shields.io/badge/Website-3A3F54?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
   
 <!-- ![](https://komarev.com/ghpvc/?username=JacksonTai&style=for-the-badge) -->
