@@ -8,6 +8,8 @@ I'm currently a software engineering student at Asia Pacific University (APU).
 I love to explore new technologies and leverage them to solve real-life problems. 
 
 I'm currently into Java development and working on my data structures and algorithms skills.
+  
+
 
 ## Tech Stack 📚
 
@@ -29,6 +31,11 @@ I'm currently into Java development and working on my data structures and algori
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
 
+<br>
+<br>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonTai">
+  
 ## Reach Out To Me 📫
 
 <br>
