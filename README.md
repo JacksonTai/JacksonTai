@@ -34,7 +34,7 @@ I'm currently into Java development with Spring related framework and working on
 <br>
 <br>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonTai">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonTai&layout=compact">
   
 ## Reach Out To Me 📫
 
