@@ -7,7 +7,7 @@ I'm currently a software engineering student at Asia Pacific University (APU).
 
 I love to explore new technologies and leverage them to solve real-life problems. 
 
-I'm currently into Java development and working on my data structures and algorithms skills.
+I'm currently into Java development with Spring related framework and working on my data structures and algorithms skills.
   
 
 
