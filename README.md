@@ -34,7 +34,7 @@ Feel free to check out my GitHub repositories to see my work in action!
 <br>
 <br>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonTai&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=JacksonTai">
   
 ## Reach Out To Me 📫
 
