@@ -5,9 +5,9 @@
   
 I'm currently a software engineering student at Asia Pacific University (APU). 
 
-I love to explore new technologies and leverage them to solve real-life problems. 
+Currently immersing myself in the world of Java and Spring Boot to build robust and scalable applications. 
 
-Feel free to check out my GitHub repositories to see my work in action!
+Feel free to check out my repositories to see my work in action!
   
 
 
