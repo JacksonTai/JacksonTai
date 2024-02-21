@@ -36,12 +36,12 @@ Feel free to check out my repositories to see my work in action!
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=JacksonTai">
   
-## Reach Out To Me 📫
+<!-- ## Reach Out To Me 📫
 
 <br>
 <a href="mailto:jacksontai.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"><a>
 <a href="https://www.linkedin.com/in/jacksontai/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/JacksonTai12345"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
 <a href="https://twitter.com/Jackson36748311/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
-<br>
+<br> -->
 
