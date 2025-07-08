@@ -1,15 +1,12 @@
 <div align="center">
 
-## Hi there, I'm Jackson Tai 
+## Hi there, I'm Jackson!
 <br>
-  
-I'm currently a software engineering student at Asia Pacific University (APU). 
-
-Currently immersing myself in building robust and scalable applications using Java technologies.
-
-Feel free to check out my repositories to see my work in action!
-  
-
+<p>
+  <del><a href="https://github.com/FasterXML/jackson">Jackson</a> has been known as "the Java JSON library" or "the best JSON parser for Java". Or simply as "JSON for Java".</del>
+  <br>
+  A random guy who likes to build random stuff on the web.
+</p>
 
 ## Tech Stack & Tools 
 
